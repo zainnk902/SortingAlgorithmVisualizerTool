@@ -7,3 +7,4 @@ This project was made using JavaScript, CSS, and HTML.
 
 
 Link: https://zainnk902.github.io/SortingVisualizer/
+
